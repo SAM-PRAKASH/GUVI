@@ -1,0 +1,13 @@
+http1:
+	If the client is requesting data in website, the server will response back with the data.
+http2:
+	# If the client is requesting data in website, the server will response back with the data 
+	  and the server can also send data even if it not request by client.
+	# Now a days http2 is using for web application building. 
+	
+
+Object and its internal representaion in javascript:
+	# Object are one of the data type and they are used to store collection of key and value.
+	# In javascriptthe objects are implemented in unordered collection of properties, Each 
+	  property consist of key and its corresponding value.
+	# obeject's values can be any JavaScript data type.
